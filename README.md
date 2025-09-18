@@ -42,8 +42,8 @@
 
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dhruvv-raghu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Dhruvv's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvv-raghu&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Dhruvv's Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=prashantdubeypng&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="prashant's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=prashantdubeypng&theme=transparent&count_private=true&border_radius=10&locale=en" alt="prashant's Streak" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantdubeypng&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="prashant's Most Used Languages" />
 </div>
 ### When I'm not:
