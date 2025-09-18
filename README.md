@@ -1,4 +1,4 @@
-<img src='Github Profile Header.png'>
+<img src='Profile Header.png'>
 
 <hr>
 
