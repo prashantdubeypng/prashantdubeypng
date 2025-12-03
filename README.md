@@ -2,7 +2,7 @@
 
 <hr>
 
-### Lurking around my profile? I'm a third year engineering student at Central University of Jharkhand, Bengaluru at the time of writing this.
+### Lurking around my profile? I'm a third year engineering student at Central University of Jharkhand, Ranchi at the time of writing this.
 ### I could describe myself and my current interests with the following:  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=true&width=435&lines=Machine+Learning+Enthusiast;Software+Development+;Writer+%7C+Technical+Writer+;Learner+%7C+Eager+to+Teach" alt="Typing SVG" /></a>
